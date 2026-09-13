@@ -1,2 +1,4 @@
 node_modules/
 .dist/
+login-failed.png
+login-success.png
